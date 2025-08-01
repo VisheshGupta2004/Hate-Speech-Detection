@@ -122,6 +122,5 @@ Contributions are welcome! Please follow these steps:
 
 - [FastAPI](https://fastapi.tiangolo.com/) for the awesome web framework
 - [scikit-learn](https://scikit-learn.org/) for machine learning tools
-- All contributors who helped improve this project
 
 
